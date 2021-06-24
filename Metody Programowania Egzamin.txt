@@ -1,0 +1,47 @@
+Metody programowania - egzamin
+Studia stacjonarne, grupa I oraz II
+2021.06.24
+
+1. Wykorzystując podany na wykładzie zachłanny algorytm planowania (wyboru) zajęć
+podaj, które z następujących, zgłoszonych zajęć (podajemy je na zasadzie początek zajęć -
+koniec zajęć) zostałyby optymalnie zaplanowane wg tego algorytmu w jedynej dostępnej sali.
+Sala pracuje od 8.00 do 22:
+Zajęcia 1: 8.00-12.00
+Zajęcia 2: 8.00-10.00
+Zajęcia 3: 11.00-14.00
+Zajęcia 4: 13.00-17.00
+Zajęcia 5: 15.00 -19.00
+Zajęcia 6: 16.00-19.00
+Zajęcia 7: 19.00-22.00
+
+Demonstrując działanie algorytmu pokazuj dokładnie i po kolei jego kroki i co z nich wynika
+
+2. Zastosuj algorytm Huffmana do zakodowania następujących liter ( obok każdej podano
+średnie, procentowe częstotliwości ich występowania w standardowym polskim
+tekście). A następnie podaj kod dla słowa pudel wykorzystujący kody Huffmana liter.
+
+d-3.45; e-7.64; l-2.09; p-3.01; u-1.92
+
+3. Napisz rekurencyjną wersję funkcji podnoszącej do potęgi n pewną liczbę x (x n ) a nastęnie
+wykorzystaj tę funkcję w programie, który dla pewnej wartości a (a&lt;10), oblicza wszystkie jej
+potęgi od 2 do 8.
+
+4. Na zajęciach podany został algorytm i napisany program dla problemu znajdowania
+największej i najmniejszej liczby w ciągu n liczb z użyciem metody dziel i zwyciężaj.
+Zmodyfikuj kod tego programu , aby rozważany był nie ciąg n liczb, ale n tekstów, a
+wynikiem byłby najdłuższy oraz najkrótszy tekst.
+
+Uwagi :
+1. Rozwiązania zadania 1 i ew. 2 umieszczamy w pliku tekstowym.
+2. Drzewo Huffmana w zadaniu 2 można naszkicować na kartce papieru, podpisać
+ją i sfotografować ją lub zeskanować. Może to być też naturalnie plik tekstowy
+lub graficzny wykonany w odpowiednim edytorze.
+3. Zadania 3 i 4 to krótkie programy napisane w C#.
+
+Punktacja : 
+Zad 1 : 3pkt
+Zad 2 : 3pkt
+Zad 3 : 4pkt
+Zad 4 : 4pkt
+Razem : 14pkt
+Czas : 105 min

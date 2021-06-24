@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Programowanie_Obiektowe_2021___zaliczenie
+﻿namespace Metody_Programowania_2021_zaliczenie
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Metody_Programowania_2021_zad2.Program.Main();
+            Metody_Programowania_2021_zad3.Program.Main();
+            Metody_Programowania_2021_zad4.Program.Main();
         }
     }
 }
